@@ -1,0 +1,762 @@
+{
+  "hfo_00015638": {
+    "image_id": "kensington_farmers_market_20895_001",
+    "logo_source": "Official website",
+    "logo_url": "https://tok.md.gov/wp-content/uploads/2022/02/Farmers-Market-logo-300x164.jpg",
+    "source_page": "https://tok.md.gov/",
+    "status": "candidate_found",
+    "store_name": "Kensington Farmers Market"
+  },
+  "hfo_00019354": {
+    "image_id": "broad_branch_chevy_chase_farmers_market_20015_001",
+    "logo_source": "Official website",
+    "logo_url": "https://cdn.lyft.com/static/bikesharefe/logo/CapitalBikeshare-main.svg",
+    "source_page": "https://capitalbikeshare.com/",
+    "status": "candidate_found",
+    "store_name": "Broad Branch (Chevy Chase) Farmers' Market"
+  },
+  "hfo_00019381": {
+    "image_id": "tenley_town_farmers_market_whole_foods_market_20016_001",
+    "logo_source": "Official website",
+    "logo_url": "https://assets.wholefoodsmarket.com/static_pages/an-Amazon-Company-logo-white.png",
+    "source_page": "https://www.wholefoodsmarket.com/",
+    "status": "candidate_found",
+    "store_name": "Tenley Town Farmers Market @ Whole Foods Market"
+  },
+  "hfo_00026823": {
+    "image_id": "trader_joe_s_642_20852_001",
+    "logo_source": "Official website",
+    "logo_url": "https://www.traderjoes.com/etc.clientlibs/trjo/clientlibs/clientlib-react/resources/favicon.ico",
+    "source_page": "https://www.traderjoes.com/home",
+    "status": "candidate_found",
+    "store_name": "Trader Joe's 642"
+  },
+  "hfo_00026932": {
+    "image_id": "korean_korner_20906_001",
+    "logo_source": "Official website",
+    "logo_url": "https://korean-korner.com/wp-content/uploads/2024/06/LOGO_KOREAN-KORNER_BLANC.svg",
+    "source_page": "https://korean-korner.com/",
+    "status": "candidate_found",
+    "store_name": "Korean Korner"
+  },
+  "hfo_00027264": {
+    "image_id": "giant_food_2313_20816_001",
+    "logo_source": "Official website",
+    "logo_url": "https://giant.net/wp/wp-content/uploads/2019/06/undraw_server_status_5pbv-min.png",
+    "source_page": "https://giant.net/",
+    "status": "candidate_found",
+    "store_name": "GIANT FOOD 2313"
+  },
+  "hfo_00028796": {
+    "image_id": "giant_food_106_20854_001",
+    "logo_source": "Official website",
+    "logo_url": "https://stores.giantfood.com/permanent-b0b701/assets/images/giantfood-logo.982ae5e9.svg",
+    "source_page": "https://stores.giantfood.com/md/potomac/7919-tuckerman-la",
+    "status": "candidate_found",
+    "store_name": "Giant Food 106"
+  },
+  "hfo_00029847": {
+    "image_id": "safeway_1716_20816_001",
+    "logo_source": "Official website",
+    "logo_url": "https://images.albertsons-media.com/is/image/ABS/nav-safeway-logo",
+    "source_page": "https://www.safeway.com/",
+    "status": "candidate_found",
+    "store_name": "SAFEWAY  1716"
+  },
+  "hfo_00030222": {
+    "image_id": "giant_food_383_20008_001",
+    "logo_source": "Official website",
+    "logo_url": "https://stores.giantfood.com/permanent-b0b701/assets/images/giantfood-logo.982ae5e9.svg",
+    "source_page": "https://stores.giantfood.com/dc/washington/4303-conn-ave-nw",
+    "status": "candidate_found",
+    "store_name": "GIANT FOOD 383"
+  },
+  "hfo_00030434": {
+    "image_id": "whole_foods_market_10118_20910_001",
+    "logo_source": "Official website",
+    "logo_url": "https://assets.wholefoodsmarket.com/static_pages/an-Amazon-Company-logo-white.png",
+    "source_page": "https://www.wholefoodsmarket.com/",
+    "status": "candidate_found",
+    "store_name": "Whole Foods Market 10118"
+  },
+  "hfo_00031034": {
+    "image_id": "safeway_1276_20012_001",
+    "logo_source": "Official website",
+    "logo_url": "https://images.albertsons-media.com/is/image/ABS/nav-safeway-logo",
+    "source_page": "https://www.safeway.com/",
+    "status": "candidate_found",
+    "store_name": "SAFEWAY  1276"
+  },
+  "hfo_00031857": {
+    "image_id": "giant_food_2379_20016_001",
+    "logo_source": "Official website",
+    "logo_url": "https://stores.giantfood.com/permanent-b0b701/assets/images/giantfood-logo.982ae5e9.svg",
+    "source_page": "https://stores.giantfood.com/dc/washington/3336-wisconsin-ave-nw",
+    "status": "candidate_found",
+    "store_name": "Giant Food 2379"
+  },
+  "hfo_00032084": {
+    "image_id": "whole_foods_market_10062_20016_001",
+    "logo_source": "Official website",
+    "logo_url": "https://assets.wholefoodsmarket.com/static_pages/an-Amazon-Company-logo-white.png",
+    "source_page": "https://www.wholefoodsmarket.com/",
+    "status": "candidate_found",
+    "store_name": "Whole Foods Market 10062"
+  },
+  "hfo_00032087": {
+    "image_id": "safeway_4832_20015_001",
+    "logo_source": "Official website",
+    "logo_url": "https://images.albertsons-media.com/is/image/ABS/nav-safeway-logo",
+    "source_page": "https://www.safeway.com/",
+    "status": "candidate_found",
+    "store_name": "SAFEWAY  4832"
+  },
+  "hfo_00032538": {
+    "image_id": "mom_s_organic_market_1_20852_001",
+    "logo_source": "Official website",
+    "logo_url": "https://momsorganicmarket.com/wp-content/uploads/2017/01/MOMs_Logo.png",
+    "source_page": "https://momsorganicmarket.com/",
+    "status": "candidate_found",
+    "store_name": "MOM's Organic Market 1"
+  },
+  "hfo_00034849": {
+    "image_id": "el_amigo_grocery_20906_001",
+    "logo_source": "Official website",
+    "logo_url": "https://d3jrewdgqatjzy.cloudfront.net/wp-content/uploads/2014/10/AmigoLogo250.gif",
+    "source_page": "https://amigo.net/",
+    "status": "candidate_found",
+    "store_name": "EL AMIGO GROCERY"
+  },
+  "hfo_00037668": {
+    "image_id": "trader_joe_s_645_20815_001",
+    "logo_source": "Official website",
+    "logo_url": "https://www.traderjoes.com/etc.clientlibs/trjo/clientlibs/clientlib-react/resources/favicon.ico",
+    "source_page": "https://www.traderjoes.com/home",
+    "status": "candidate_found",
+    "store_name": "Trader Joe's 645"
+  },
+  "hfo_00038698": {
+    "image_id": "giant_food_327_20814_001",
+    "logo_source": "Official website",
+    "logo_url": "https://stores.giantfood.com/permanent-b0b701/assets/images/giantfood-logo.982ae5e9.svg",
+    "source_page": "https://stores.giantfood.com/md/bethesda/7142-arlington-road",
+    "status": "candidate_found",
+    "store_name": "GIANT FOOD 327"
+  },
+  "hfo_00038970": {
+    "image_id": "giant_food_336_20902_001",
+    "logo_source": "Official website",
+    "logo_url": "https://stores.giantfood.com/permanent-b0b701/assets/images/giantfood-logo.982ae5e9.svg",
+    "source_page": "https://stores.giantfood.com/md/wheaton/2900-university-boulevard-west",
+    "status": "candidate_found",
+    "store_name": "GIANT FOOD 336"
+  },
+  "hfo_00039582": {
+    "image_id": "giant_food_354_20910_001",
+    "logo_source": "Official website",
+    "logo_url": "https://stores.giantfood.com/permanent-b0b701/assets/images/giantfood-logo.982ae5e9.svg",
+    "source_page": "https://stores.giantfood.com/md/silver-spring/1280-east-west-hwy",
+    "status": "candidate_found",
+    "store_name": "GIANT FOOD 354"
+  },
+  "hfo_00040664": {
+    "image_id": "shalom_strictly_kosher_meat_20902_001",
+    "logo_source": "Official website",
+    "logo_url": "https://static.wixstatic.com/media/76b222_c08f11c37a7c4875b1796426a7f8a4bd%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/76b222_c08f11c37a7c4875b1796426a7f8a4bd%7Emv2.png",
+    "source_page": "https://www.shalomkosher.com/",
+    "status": "candidate_found",
+    "store_name": "SHALOM STRICTLY KOSHER MEAT"
+  },
+  "hfo_00040902": {
+    "image_id": "safeway_2848_20815_001",
+    "logo_source": "Official website",
+    "logo_url": "https://images.albertsons-media.com/is/image/ABS/nav-safeway-logo",
+    "source_page": "https://www.safeway.com/",
+    "status": "candidate_found",
+    "store_name": "SAFEWAY 2848"
+  },
+  "hfo_00041435": {
+    "image_id": "whole_foods_market_10048_20816_001",
+    "logo_source": "Official website",
+    "logo_url": "https://assets.wholefoodsmarket.com/static_pages/an-Amazon-Company-logo-white.png",
+    "source_page": "https://www.wholefoodsmarket.com/",
+    "status": "candidate_found",
+    "store_name": "Whole Foods Market 10048"
+  },
+  "hfo_00042283": {
+    "image_id": "safeway_2753_20895_001",
+    "logo_source": "Official website",
+    "logo_url": "https://images.albertsons-media.com/is/image/ABS/nav-safeway-logo",
+    "source_page": "https://www.safeway.com/",
+    "status": "candidate_found",
+    "store_name": "SAFEWAY 2753"
+  },
+  "hfo_00044568": {
+    "image_id": "giant_food_125_20852_001",
+    "logo_source": "Official website",
+    "logo_url": "https://stores.giantfood.com/permanent-b0b701/assets/images/giantfood-logo.982ae5e9.svg",
+    "source_page": "https://stores.giantfood.com/md/rockville/12051-rockville-pike",
+    "status": "candidate_found",
+    "store_name": "GIANT FOOD 125"
+  },
+  "hfo_00046256": {
+    "image_id": "target_store_1854_20852_001",
+    "logo_source": "Simple Icons",
+    "logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/target.svg",
+    "source_page": "https://simpleicons.org/",
+    "status": "candidate_found",
+    "store_name": "Target Store 1854"
+  },
+  "hfo_00047154": {
+    "image_id": "safeway_1369_20910_001",
+    "logo_source": "Official website",
+    "logo_url": "https://images.albertsons-media.com/is/image/ABS/nav-safeway-logo",
+    "source_page": "https://www.safeway.com/",
+    "status": "candidate_found",
+    "store_name": "SAFEWAY  1369"
+  },
+  "hfo_00047961": {
+    "image_id": "giant_food_132_20814_001",
+    "logo_source": "Official website",
+    "logo_url": "https://stores.giantfood.com/permanent-b0b701/assets/images/giantfood-logo.982ae5e9.svg",
+    "source_page": "https://stores.giantfood.com/md/bethesda/10400-old-georgetown-rd",
+    "status": "candidate_found",
+    "store_name": "GIANT FOOD 132"
+  },
+  "hfo_00048402": {
+    "image_id": "whole_foods_market_10235_20852_001",
+    "logo_source": "Official website",
+    "logo_url": "https://assets.wholefoodsmarket.com/static_pages/an-Amazon-Company-logo-white.png",
+    "source_page": "https://www.wholefoodsmarket.com/",
+    "status": "candidate_found",
+    "store_name": "Whole Foods Market 10235"
+  },
+  "hfo_00048764": {
+    "image_id": "wegmans_rockville_148_20852_001",
+    "logo_source": "Official website",
+    "logo_url": "https://static.wixstatic.com/media/0d6c54_1cda5cadafc840b3b8d275244a1e4a8c~mv2.jpg/v1/fill/w_214,h_139,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/RBHlogoCMYK.jpg",
+    "source_page": "https://www.rockvillebikehub.org/",
+    "status": "candidate_found",
+    "store_name": "Wegmans Rockville 148"
+  },
+  "hfo_00055216": {
+    "image_id": "whole_foods_market_10211_20815_001",
+    "logo_source": "Official website",
+    "logo_url": "https://assets.wholefoodsmarket.com/static_pages/an-Amazon-Company-logo-white.png",
+    "source_page": "https://www.wholefoodsmarket.com/",
+    "status": "candidate_found",
+    "store_name": "Whole Foods Market 10211"
+  },
+  "hfo_00061319": {
+    "image_id": "safeway_2781_20902_001",
+    "logo_source": "Official website",
+    "logo_url": "https://images.albertsons-media.com/is/image/ABS/nav-safeway-logo",
+    "source_page": "https://www.safeway.com/",
+    "status": "candidate_found",
+    "store_name": "Safeway 2781"
+  },
+  "hfo_00062036": {
+    "image_id": "walmart_supercenter_5968_20011_001",
+    "logo_source": "Official website",
+    "logo_url": "https://i5.walmartimages.com/dfw/63fd9f59-49ff/k2-_52fee322-2e60-452a-bccc-1e847f452a13.v1.png",
+    "source_page": "https://www.walmart.com/",
+    "status": "candidate_found",
+    "store_name": "Walmart Supercenter 5968"
+  },
+  "hfo_00063048": {
+    "image_id": "safeway_3257_20852_001",
+    "logo_source": "Official website",
+    "logo_url": "https://images.albertsons-media.com/is/image/ABS/nav-safeway-logo",
+    "source_page": "https://www.safeway.com/",
+    "status": "candidate_found",
+    "store_name": "Safeway 3257"
+  },
+  "hfo_00063577": {
+    "image_id": "guru_groceries_chaat_house_3012514400_20814_001",
+    "logo_source": "Official website",
+    "logo_url": "https://ik.imagekit.io/awwybhhmo/assets/favicons/Chinese/021-noodles-1.svg?tr=w-200",
+    "source_page": "https://www.bethesdagoldenhouse.com/?utm_source=redirect&utm_medium=goldenhousebethesda.com",
+    "status": "candidate_found",
+    "store_name": "Guru Groceries & Chaat House 3012514400"
+  },
+  "hfo_00064995": {
+    "image_id": "yekta_deli_imported_groceries_inc_20852_001",
+    "logo_source": "Official website",
+    "logo_url": "https://k3c6w6q8.delivery.rocketcdn.me/wp-content/uploads/2022/03/logoyekta-market-kabob-counter.png",
+    "source_page": "https://yektamarket.com/",
+    "status": "candidate_found",
+    "store_name": "Yekta Deli & Imported Groceries Inc."
+  },
+  "hfo_00065206": {
+    "image_id": "target_3242_20815_001",
+    "logo_source": "Simple Icons",
+    "logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/target.svg",
+    "source_page": "https://simpleicons.org/",
+    "status": "candidate_found",
+    "store_name": "Target 3242"
+  },
+  "hfo_00065595": {
+    "image_id": "aldi_71145_20852_001",
+    "logo_source": "Official website",
+    "logo_url": "https://d2lnr5mha7bycj.cloudfront.net/store_configuration/favicon/1672/aZIUkmpEQGe0trJdHkAV_favicon_48x48.png",
+    "source_page": "https://www.aldi.us/store/aldi/storefront",
+    "status": "candidate_found",
+    "store_name": "ALDI 71145"
+  },
+  "hfo_00065628": {
+    "image_id": "americas_supermarket_store_20902_001",
+    "logo_source": "Official website",
+    "logo_url": "https://americas.org/wp-content/themes/mira/assets/img/LOGO_MIRA_Color_H.png",
+    "source_page": "https://americas.org/",
+    "status": "candidate_found",
+    "store_name": "Americas Supermarket Store"
+  },
+  "hfo_00069686": {
+    "image_id": "aldi_71072_20910_001",
+    "logo_source": "Official website",
+    "logo_url": "https://d2lnr5mha7bycj.cloudfront.net/store_configuration/favicon/1672/aZIUkmpEQGe0trJdHkAV_favicon_48x48.png",
+    "source_page": "https://www.aldi.us/store/aldi/storefront",
+    "status": "candidate_found",
+    "store_name": "Aldi 71072"
+  },
+  "hfo_00074065": {
+    "image_id": "target_store_t3351_20016_001",
+    "logo_source": "Simple Icons",
+    "logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/target.svg",
+    "source_page": "https://simpleicons.org/",
+    "status": "candidate_found",
+    "store_name": "Target Store T3351"
+  },
+  "hfo_00074719": {
+    "image_id": "target_store_t3328_20012_001",
+    "logo_source": "Simple Icons",
+    "logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/target.svg",
+    "source_page": "https://simpleicons.org/",
+    "status": "candidate_found",
+    "store_name": "Target Store T3328"
+  },
+  "hfo_00077719": {
+    "image_id": "mundo_market_ii_20902_001",
+    "logo_source": "Official website",
+    "logo_url": "https://www.mundo.com/public/img/logox2.png?v=2",
+    "source_page": "https://www.mundo.com/",
+    "status": "candidate_found",
+    "store_name": "Mundo Market Ii"
+  },
+  "hfo_00078855": {
+    "image_id": "aldi_71191_20895_001",
+    "logo_source": "Official website",
+    "logo_url": "https://d2lnr5mha7bycj.cloudfront.net/store_configuration/favicon/1672/aZIUkmpEQGe0trJdHkAV_favicon_48x48.png",
+    "source_page": "https://www.aldi.us/store/aldi/storefront",
+    "status": "candidate_found",
+    "store_name": "ALDI 71191"
+  },
+  "hfo_00081692": {
+    "image_id": "grocerylanka_20895_001",
+    "logo_source": "Official website",
+    "logo_url": "https://www.grocerylanka.com/cdn/shop/files/GroceryLanka-LOGO_2000_x_2000_150x150.jpg?v=1630532844",
+    "source_page": "https://www.grocerylanka.com/",
+    "status": "candidate_found",
+    "store_name": "Grocerylanka"
+  },
+  "hfo_00081969": {
+    "image_id": "lidl_1555_20814_001",
+    "logo_source": "Simple Icons",
+    "logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/lidl.svg",
+    "source_page": "https://simpleicons.org/",
+    "status": "candidate_found",
+    "store_name": "Lidl 1555"
+  },
+  "hfo_00082088": {
+    "image_id": "trader_joe_s_downtown_bethesda_623_20814_001",
+    "logo_source": "Official website",
+    "logo_url": "https://www.traderjoes.com/etc.clientlibs/trjo/clientlibs/clientlib-react/resources/favicon.ico",
+    "source_page": "https://www.traderjoes.com/home",
+    "status": "candidate_found",
+    "store_name": "TRADER JOE'S DOWNTOWN BETHESDA 623"
+  },
+  "hfo_00082707": {
+    "image_id": "beauty_blooms_llc_20910_001",
+    "logo_source": "Official website",
+    "logo_url": "https://www.beautyblooms.org/uploads/b/3f37df00-4b16-11ed-b6fe-09fda584da14/icon_180x180_ios_NDE5NT.png?width=180",
+    "source_page": "https://www.beautyblooms.org",
+    "status": "candidate_found",
+    "store_name": "Beauty Blooms Llc"
+  },
+  "hfo_00082773": {
+    "image_id": "wegmans_wisconsin_ave_143_20016_001",
+    "logo_source": "Official website",
+    "logo_url": "https://www.wegmans.com/_next/static/media/logo.0ckgqa_ldnzpt.svg",
+    "source_page": "https://www.wegmans.com/stores/wisconsin-avenue-dc",
+    "status": "candidate_found",
+    "store_name": "Wegmans Wisconsin Ave 143"
+  },
+  "hfo_00085776": {
+    "image_id": "target_store_1415_20902_001",
+    "logo_source": "Simple Icons",
+    "logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/target.svg",
+    "source_page": "https://simpleicons.org/",
+    "status": "candidate_found",
+    "store_name": "Target Store 1415"
+  },
+  "hfo_00086234": {
+    "image_id": "whole_foods_market_10777_20012_001",
+    "logo_source": "Official website",
+    "logo_url": "https://assets.wholefoodsmarket.com/static_pages/an-Amazon-Company-logo-white.png",
+    "source_page": "https://www.wholefoodsmarket.com/",
+    "status": "candidate_found",
+    "store_name": "Whole Foods Market 10777"
+  },
+  "hfo_00086871": {
+    "image_id": "moti_s_market_20852_001",
+    "logo_source": "Official website",
+    "logo_url": "https://forsale.spaceship-cdn.com/static/latest/5.latest/assets/fonts/spaceship-logo.svg",
+    "source_page": "https://moti.org/",
+    "status": "candidate_found",
+    "store_name": "Moti's Market"
+  },
+  "hfo_00087949": {
+    "image_id": "arat_kilo_market_20910_001",
+    "logo_source": "Official website",
+    "logo_url": "https://aratkilo.com/wp-content/uploads/2017/05/345by70png.png",
+    "source_page": "https://aratkilo.com/",
+    "status": "candidate_found",
+    "store_name": "Arat Kilo Market"
+  },
+  "hfo_00095281": {
+    "image_id": "megamart_20852_001",
+    "logo_source": "Official website",
+    "logo_url": "https://static.megamart.com/display/banner/main/brandlink/20250306/20250306143855_icon_20250306-\ub300\ub7c9\uc8fc\ubb38.jpg",
+    "source_page": "https://www.megamart.com:443/",
+    "status": "candidate_found",
+    "store_name": "MegaMart"
+  },
+  "hfo_00095595": {
+    "image_id": "delicias_market_20011_001",
+    "logo_source": "Official website",
+    "logo_url": "https://forsale.spaceship-cdn.com/static/latest/5.latest/assets/fonts/spaceship-logo.svg",
+    "source_page": "https://delicias.com/",
+    "status": "candidate_found",
+    "store_name": "DELICIAS MARKET"
+  },
+  "hfo_00095979": {
+    "image_id": "awdamet_market_20910_001",
+    "logo_source": "Official website",
+    "logo_url": "https://awdamet.com/wp-content/themes/porto/images/logo/apple-touch-icon_76x76.png",
+    "source_page": "https://awdamet.com/",
+    "status": "candidate_found",
+    "store_name": "Awdamet Market"
+  },
+  "hfo_00097701": {
+    "image_id": "lidl_1557_20016_001",
+    "logo_source": "Simple Icons",
+    "logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/lidl.svg",
+    "source_page": "https://simpleicons.org/",
+    "status": "candidate_found",
+    "store_name": "Lidl 1557"
+  },
+  "hfo_00098337": {
+    "image_id": "mom_s_organic_market_26_20910_001",
+    "logo_source": "Official website",
+    "logo_url": "https://momsorganicmarket.com/wp-content/uploads/2017/01/MOMs_Logo.png",
+    "source_page": "https://momsorganicmarket.com/silver-spring/",
+    "status": "candidate_found",
+    "store_name": "MOM's Organic Market 26"
+  },
+  "hfo_00099889": {
+    "image_id": "balduccis_3602_20814_001",
+    "logo_source": "Official website",
+    "logo_url": "https://www.balduccis.com/home/favicons/balduccis.ico",
+    "source_page": "https://www.balduccis.com/",
+    "status": "candidate_found",
+    "store_name": "Balduccis 3602"
+  },
+  "hfo_00100295": {
+    "image_id": "trader_joe_s_washington_friendship_heig_819_20015_001",
+    "logo_source": "Official website",
+    "logo_url": "https://www.traderjoes.com/etc.clientlibs/trjo/clientlibs/clientlib-react/resources/favicon.ico",
+    "source_page": "https://www.traderjoes.com/home",
+    "status": "candidate_found",
+    "store_name": "TRADER JOE'S WASHINGTON (FRIENDSHIP HEIG 819"
+  },
+  "hfo_00112465": {
+    "image_id": "magruder_s_20015_001",
+    "logo_source": "Official website",
+    "logo_url": "https://www.magrudercompanies.com/img/mag_web_logo.png",
+    "source_page": "https://www.magrudercompanies.com/",
+    "status": "candidate_found",
+    "store_name": "Magruder's"
+  },
+  "hfo_00112491": {
+    "image_id": "bread_furst_20008_001",
+    "logo_source": "Official website",
+    "logo_url": "https://static.showit.co/file/Hds9VRXXQa2LpOJ7433b8Q/shared/logo.gif",
+    "source_page": "https://breadfurst.com/",
+    "status": "candidate_found",
+    "store_name": "Bread Furst"
+  },
+  "hfo_00112508": {
+    "image_id": "sticky_fingers_20012_001",
+    "logo_source": "Official website",
+    "logo_url": "https://stickyfingersbakery.com/application/files/cache/thumbnails/stickyfingers-logo-sweetseats-whitehoriz-fc313f0cb03957fc39907ff32cbafa5c.png",
+    "source_page": "https://stickyfingersbakery.com/",
+    "status": "candidate_found",
+    "store_name": "Sticky Fingers"
+  },
+  "hfo_00112526": {
+    "image_id": "tatte_bakery_cafe_20016_001",
+    "logo_source": "Official website",
+    "logo_url": "https://a.storyblok.com/f/320617/116x40/9fd026e336/tatte-brand-and-menu-white.svg",
+    "source_page": "https://tattebakery.com/",
+    "status": "candidate_found",
+    "store_name": "Tatte Bakery & Cafe"
+  },
+  "hfo_00112531": {
+    "image_id": "whole_foods_market_20012_001",
+    "logo_source": "Official website",
+    "logo_url": "https://assets.wholefoodsmarket.com/static_pages/an-Amazon-Company-logo-white.png",
+    "source_page": "https://www.wholefoodsmarket.com/",
+    "status": "candidate_found",
+    "store_name": "Whole Foods Market"
+  },
+  "hfo_00112539": {
+    "image_id": "lidl_20016_001",
+    "logo_source": "Simple Icons",
+    "logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/lidl.svg",
+    "source_page": "https://simpleicons.org/",
+    "status": "candidate_found",
+    "store_name": "Lidl"
+  },
+  "hfo_00112547": {
+    "image_id": "mom_s_20008_001",
+    "logo_source": "Official website",
+    "logo_url": "https://mom.com/wp-content/uploads/2024/09/momcom-logo.svg",
+    "source_page": "https://mom.com/",
+    "status": "candidate_found",
+    "store_name": "Mom's"
+  },
+  "hfo_00143978": {
+    "image_id": "giant_20910_001",
+    "logo_source": "Official website",
+    "logo_url": "https://stores.giantfood.com/permanent-b0b701/assets/images/giantfood-logo.982ae5e9.svg",
+    "source_page": "https://stores.giantfood.com/md/silver-spring/1280-east-west-hwy",
+    "status": "candidate_found",
+    "store_name": "Giant"
+  },
+  "hfo_00143980": {
+    "image_id": "trader_joe_s_20852_001",
+    "logo_source": "Official website",
+    "logo_url": "https://www.traderjoes.com/etc.clientlibs/trjo/clientlibs/clientlib-react/resources/favicon.ico",
+    "source_page": "https://www.traderjoes.com/home",
+    "status": "candidate_found",
+    "store_name": "Trader Joe's"
+  },
+  "hfo_00143991": {
+    "image_id": "georgetown_cupcake_20814_001",
+    "logo_source": "Official website",
+    "logo_url": "https://georgetowncupcake.com/cdn/shop/files/Layer_1_1.png?height=35&v=1755786306",
+    "source_page": "https://georgetowncupcake.com/",
+    "status": "candidate_found",
+    "store_name": "Georgetown Cupcake"
+  },
+  "hfo_00144002": {
+    "image_id": "la_bohemia_bakery_20852_001",
+    "logo_source": "Official website",
+    "logo_url": "https://images.squarespace-cdn.com/content/v1/68dffdcd8222737863f8cc07/761809f4-02e8-4a0f-8bf3-4be62eedf278/Final+Logo.png?format=1500w",
+    "source_page": "https://www.labohemiabakery.com/",
+    "status": "candidate_found",
+    "store_name": "La Bohemia Bakery"
+  },
+  "hfo_00144009": {
+    "image_id": "giant_20816_001",
+    "logo_source": "Official website",
+    "logo_url": "https://giant.net/wp/wp-content/uploads/2019/06/undraw_server_status_5pbv-min.png",
+    "source_page": "https://giant.net/",
+    "status": "candidate_found",
+    "store_name": "Giant"
+  },
+  "hfo_00144093": {
+    "image_id": "mom_s_organic_market_20852_001",
+    "logo_source": "Official website",
+    "logo_url": "https://momsorganicmarket.com/wp-content/uploads/2017/01/MOMs_Logo.png",
+    "source_page": "https://momsorganicmarket.com/",
+    "status": "candidate_found",
+    "store_name": "MOM's Organic Market"
+  },
+  "hfo_00144113": {
+    "image_id": "the_organic_butcher_of_bethesda_20814_001",
+    "logo_source": "Official website",
+    "logo_url": "https://ce2b1b9d2fa034fbae5a.cdn6.editmysite.com/uploads/b/ce2b1b9d2fa034fbae5adc72ec81b0d2ab7fa4ce6566e6af871408ddd66631fe/OB-LOGO-HOME_1669839960.png?width=2400&optimize=medium",
+    "source_page": "https://www.theorganicbutcher.com/",
+    "status": "candidate_found",
+    "store_name": "The Organic Butcher of Bethesda"
+  },
+  "hfo_00144146": {
+    "image_id": "goldberg_s_new_york_bagels_20910_001",
+    "logo_source": "Official website",
+    "logo_url": "https://static.wixstatic.com/media/edea44dcd06f4284b17f779de573b243.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/edea44dcd06f4284b17f779de573b243.jpg",
+    "source_page": "https://www.goldbergsnybagels.com/",
+    "status": "candidate_found",
+    "store_name": "Goldberg's New York Bagels"
+  },
+  "hfo_00144177": {
+    "image_id": "kosher_pastry_oven_20902_001",
+    "logo_source": "Official website",
+    "logo_url": "https://static.wixstatic.com/media/76b222_c08f11c37a7c4875b1796426a7f8a4bd%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/76b222_c08f11c37a7c4875b1796426a7f8a4bd%7Emv2.png",
+    "source_page": "https://www.shalomkosher.com/",
+    "status": "candidate_found",
+    "store_name": "Kosher Pastry Oven"
+  },
+  "hfo_00144194": {
+    "image_id": "mastiha_greek_bakery_20895_001",
+    "logo_source": "Official website",
+    "logo_url": "https://www.mastihataverna.com/uploads/b/7bf95dd0-00a4-11ee-b5d0-3580f438ca33/icon_180x180_ios_MTUyOT.png?width=180",
+    "source_page": "https://www.mastihataverna.com",
+    "status": "candidate_found",
+    "store_name": "Mastiha Greek Bakery"
+  },
+  "hfo_00144206": {
+    "image_id": "h_mart_20902_001",
+    "logo_source": "Official website",
+    "logo_url": "http://www.mart.com/digimedia-logo.webp",
+    "source_page": "http://www.mart.com/",
+    "status": "candidate_found",
+    "store_name": "H Mart"
+  },
+  "hfo_00144208": {
+    "image_id": "chicago_bakery_20902_001",
+    "logo_source": "Official website",
+    "logo_url": "https://chicago.com/favicon.ico?favicon.3oawp-htem9ts.ico?dpl=dpl_ErbfdZ1sHJtkmCXnZgv2TeAurnLh",
+    "source_page": "https://chicago.com/",
+    "status": "candidate_found",
+    "store_name": "Chicago Bakery"
+  },
+  "hfo_00144213": {
+    "image_id": "warren_st_deli_20910_001",
+    "logo_source": "Official website",
+    "logo_url": "https://warrendeli.com/wp-content/uploads/2025/01/Warren-Deli-Logo-FIN-whiteback.jpg",
+    "source_page": "https://warrendeli.com/",
+    "status": "candidate_found",
+    "store_name": "Warren St. Deli"
+  },
+  "hfo_00144235": {
+    "image_id": "kensington_market_retail_20895_001",
+    "logo_source": "Official website",
+    "logo_url": "https://tok.md.gov/wp-content/uploads/2022/02/Farmers-Market-logo-300x164.jpg",
+    "source_page": "https://tok.md.gov/",
+    "status": "candidate_found",
+    "store_name": "Kensington Market Retail"
+  },
+  "hfo_00144248": {
+    "image_id": "tatte_bakery_cafe_20814_001",
+    "logo_source": "Official website",
+    "logo_url": "https://a.storyblok.com/f/320617/116x40/9fd026e336/tatte-brand-and-menu-white.svg",
+    "source_page": "https://tattebakery.com/",
+    "status": "candidate_found",
+    "store_name": "Tatte Bakery & Cafe"
+  },
+  "hfo_00144288": {
+    "image_id": "call_your_mother_20852_001",
+    "logo_source": "Official website",
+    "logo_url": "https://images.squarespace-cdn.com/content/v1/63e3ca88a615473a4345cd65/35cfc5cd-2913-4c4b-8bf5-7a9c8a3ee738/CYM_Logo-RGB-white.png?format=1500w",
+    "source_page": "https://www.callyourmotherdeli.com/",
+    "status": "candidate_found",
+    "store_name": "Call Your Mother"
+  },
+  "hfo_00144342": {
+    "image_id": "shafa_blends_20852_001",
+    "logo_source": "Official website",
+    "logo_url": "https://www.shafablends.com/cdn/shop/files/Shafa_Blends_logo_orange_circle-01.png?v=1700196436",
+    "source_page": "https://www.shafablends.com/",
+    "status": "candidate_found",
+    "store_name": "Shafa Blends"
+  },
+  "hfo_00144355": {
+    "image_id": "chip_city_20814_001",
+    "logo_source": "Official website",
+    "logo_url": "https://chipcitycookies.com/fav-icon/apple-touch-icon.png",
+    "source_page": "https://chipcitycookies.com",
+    "status": "candidate_found",
+    "store_name": "Chip City"
+  },
+  "hfo_00144379": {
+    "image_id": "guru_groceries_and_chaat_house_20814_001",
+    "logo_source": "Official website",
+    "logo_url": "https://ik.imagekit.io/awwybhhmo/assets/favicons/Chinese/021-noodles-1.svg?tr=w-200",
+    "source_page": "https://www.bethesdagoldenhouse.com/?utm_source=redirect&utm_medium=goldenhousebethesda.com",
+    "status": "candidate_found",
+    "store_name": "Guru Groceries and Chaat House"
+  },
+  "hfo_00144391": {
+    "image_id": "butcher_s_alley_20814_001",
+    "logo_source": "Official website",
+    "logo_url": "https://images.squarespace-cdn.com/content/v1/568d82dbb204d5990c9bb12b/1586988693093-YFCCHH2DQOJ6VWJ70C76/BALogo_Cheese.png?format=1500w",
+    "source_page": "https://www.butchersalley.com/",
+    "status": "candidate_found",
+    "store_name": "Butcher's Alley"
+  },
+  "hfo_00144392": {
+    "image_id": "pescadeli_20814_001",
+    "logo_source": "Official website",
+    "logo_url": "https://images.squarespace-cdn.com/content/v1/5bed7e3445776ee2da6d56ca/1542293274469-5XY9VO3EDZRCV0N8IWTC/PESCADELI+LOGO.jpg?format=1500w",
+    "source_page": "https://www.pescadeli.com/",
+    "status": "candidate_found",
+    "store_name": "Pescadeli"
+  },
+  "hfo_00144393": {
+    "image_id": "fresh_baguette_20814_001",
+    "logo_source": "Official website",
+    "logo_url": "https://images.getbento.com/accounts/2a9801c410ad54d61bf287bf23e32841/media/images/80098Logo_OffWhite.png",
+    "source_page": "https://www.freshbaguette.net/",
+    "status": "candidate_found",
+    "store_name": "Fresh Baguette"
+  },
+  "hfo_00144395": {
+    "image_id": "filippo_s_italian_specialties_20902_001",
+    "logo_source": "Official website",
+    "logo_url": "https://images.squarespace-cdn.com/content/v1/5cf6e13fc30e100001fb0cb5/1577996773241-BN4GCQ2ZUFUBE7YCHW1B/NEW+LOGO.png?format=1500w",
+    "source_page": "https://filipposdeli.com/",
+    "status": "candidate_found",
+    "store_name": "Filippo\u2019s Italian Specialties"
+  },
+  "hfo_00144396": {
+    "image_id": "paris_baguette_20814_001",
+    "logo_source": "Official website",
+    "logo_url": "https://parisbaguette.com/wp-content/uploads/2024/04/paris-baguette-logo.svg",
+    "source_page": "https://parisbaguette.com/",
+    "status": "candidate_found",
+    "store_name": "Paris Baguette"
+  },
+  "hfo_00144439": {
+    "image_id": "safeway_20901_001",
+    "logo_source": "Official website",
+    "logo_url": "https://images.albertsons-media.com/is/image/ABS/nav-safeway-logo",
+    "source_page": "https://www.safeway.com/",
+    "status": "candidate_found",
+    "store_name": "Safeway"
+  },
+  "hfo_00144446": {
+    "image_id": "giant_20815_001",
+    "logo_source": "Official website",
+    "logo_url": "https://giant.net/wp/wp-content/uploads/2019/06/undraw_server_status_5pbv-min.png",
+    "source_page": "https://giant.net/",
+    "status": "candidate_found",
+    "store_name": "Giant"
+  },
+  "hfo_00144451": {
+    "image_id": "bethesda_co_op_20818_001",
+    "logo_source": "Official website",
+    "logo_url": "https://cdn.domainmarket.com/dm-com/images/favicons/favicon-180x180.svg",
+    "source_page": "https://bethesda.com/",
+    "status": "candidate_found",
+    "store_name": "Bethesda Co-op"
+  },
+  "hfo_00144452": {
+    "image_id": "snider_s_super_foods_20910_001",
+    "logo_source": "Official website",
+    "logo_url": "https://static.wixstatic.com/media/1786dd_e5d510f8398a4cc38a099d9654efd99e~mv2.png/v1/fill/w_153,h_82,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Sniders-logo(hr).png",
+    "source_page": "https://www.sniderfoods.com/",
+    "status": "candidate_found",
+    "store_name": "Snider's Super Foods"
+  }
+}
